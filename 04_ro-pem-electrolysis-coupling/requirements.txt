@@ -1,0 +1,7 @@
+pyomo
+idaes-pse
+watertap
+numpy
+pandas
+matplotlib
+jupyter

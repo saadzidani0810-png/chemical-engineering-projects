@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.asv
+*.mat
+.DS_Store
+Thumbs.db
+# datasets are downloaded separately
+02_cancer-severity-regression/data/*.csv
+# generated outputs
+brachistochrone_trajectory.csv
+brachistochrone_summary.csv
