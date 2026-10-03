@@ -1,4 +1,4 @@
-# Phosphoric acid (dihydrate process) model in MATLAB
+# Phosphoric acid (dihydrate process) model in Matlab and Aspen + 
 
 **Context.** This is self-initiated work done during my observation internship at OCP Group, Jorf Lasfar (phosphoric acid Line 03 E, June to August 2026). It started from a DCS snapshot of the line.
 
