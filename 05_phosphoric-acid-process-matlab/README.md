@@ -21,3 +21,4 @@
 **Run.** MATLAB R2016b or later: open and run `Simulation_AcidePhosphorique.m`.
 
 *Comments and guide are in French.*
+For the Aspen one open the aspen file and run 
